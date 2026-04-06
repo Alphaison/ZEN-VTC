@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ZEN VTC Casablanca - Chauffeur Privé Maroc</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Chauffeur privé à Casablanca et partout au Maroc. Transfert aéroport, VTC premium, service 24H. Réservation rapide via WhatsApp.">
+  <meta name="keywords" content="VTC Casablanca, taxi aeroport Casablanca, chauffeur privé Maroc, transport luxe Maroc">
+  <meta name="author" content="ZEN VTC">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #111, #1c1c1c);
+      color: white;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+      background: black;
+    }
+
+    header h1 {
+      color: #f5d76e;
+      margin: 0;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 30px 20px;
+    }
+
+    .hero img {
+      width: 100%;
+      max-width: 800px;
+      border-radius: 12px;
+    }
+
+    .phone {
+      font-size: 24px;
+      margin: 15px 0;
+      color: #f5d76e;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 15px 25px;
+      margin: 10px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    .whatsapp {
+      background: #25D366;
+      color: white;
+    }
+
+    .call {
+      background: #f5d76e;
+      color: black;
+    }
+
+    .section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: #222;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    iframe {
+      width: 100%;
+      height: 300px;
+      border-radius: 10px;
+      border: none;
+      margin-top: 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: black;
+      color: #aaa;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>ZEN VTC</h1>
+  <p>Chauffeur Privé - Casablanca & Tout le Maroc - 24H</p>
+</header>
+
+<section class="hero">
+  <img src="your-image.jpg" alt="ZEN VTC">
+
+  <div class="phone">📞 0780-64-31-35</div>
+
+  <a class="btn whatsapp" href="https://wa.me/212780643135?text=Bonjour%20je%20veux%20réserver%20un%20trajet" target="_blank">
+    📲 Réserver sur WhatsApp
+  </a>
+
+  <a class="btn call" href="tel:0780643135">
+    📞 Appeler maintenant
+  </a>
+</section>
+
+<section class="section">
+  <h2>Nos Services</h2>
+
+  <div class="services">
+    <div class="card">✈️ Transfert Aéroport Casablanca</div>
+    <div class="card">🚗 Déplacements toutes villes</div>
+    <div class="card">⏱️ Chauffeur à l’heure</div>
+    <div class="card">💼 Transport Business</div>
+    <div class="card">🎉 Événements & Mariages</div>
+    <div class="card">🌍 Longue distance Maroc</div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Pourquoi nous choisir ?</h2>
+
+  <p>✔️ Service 24H / 7J</p>
+  <p>✔️ Confort & Sécurité</p>
+  <p>✔️ Réponse rapide WhatsApp</p>
+  <p>✔️ Prix compétitifs</p>
+</section>
+
+<section class="section">
+  <h2>Zone de service</h2>
+
+  <p>Casablanca - Rabat - Marrakech - Tanger - Agadir - Toutes les villes du Maroc</p>
+
+  <iframe src="https://maps.google.com/maps?q=maroc&t=&z=6&ie=UTF8&iwloc=&output=embed"></iframe>
+</section>
+
+<section class="section">
+  <h2>Réserver maintenant</h2>
+
+  <a class="btn whatsapp" href="https://wa.me/212780643135?text=Bonjour%20je%20viens%20de%20votre%20site%20je%20veux%20réserver" target="_blank">
+    📲 Réserver via WhatsApp
+  </a>
+</section>
+
+<footer>
+  © 2026 ZEN VTC - Casablanca & Maroc
+</footer>
+
+</body>
+</html>
